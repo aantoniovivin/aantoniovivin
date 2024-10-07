@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aantonio vivin A</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/3d-cartoon-little-boy-red-hair-freckled-face-glasses-white-background_812426-4907.jpg">
+<img align="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/756/75682.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aantoniovivin&label=Profile%20views&color=0e75b6&style=flat" alt="aantoniovivin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aantoniovivin" alt="aantoniovivin" /></a> </p>
