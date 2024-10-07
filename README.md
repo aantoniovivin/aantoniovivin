@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@vivinaantonio" target="blank"><img src="https://img.shields.io/twitter/follow/@vivinaantonio?logo=twitter&style=for-the-badge" alt="@vivinaantonio" /></a> </p>
 
-- 🔭 I’m currently working on [porfolio](https://github.com/aantoniovivin/myportfolio)
+- 🔭 I’m currently working on [porfolio](https://github.com/aantoniovivin/portfolio)
 
 - 🌱 I’m currently learning **React Native**
 
