@@ -24,7 +24,7 @@
 - 🌱 Sharpening my skills in **networking (CCNA)** and **backend system design**
 - 💬 Ask me about **Python, Flask, React.js, SQL/MySQL, or Data Analysis**
 - 📫 Reach me at **aantoniovivin2004@gmail.com**
-- 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/aantonio-vivin-a-bb9826421)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/aantonio-vivin-a-bb9826421)
 
 ---
 
