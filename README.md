@@ -1,53 +1,51 @@
 <h1 align="center">Hi 👋, I'm Aantonio Vivin A</h1>
 
 <h3 align="center">
-💻 Software Developer • 🐍 Python Developer • 📊 Data Analyst
+💻 Software Developer | 🐍 Python Developer | 📊 Data Analyst
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;Software+Developer;Python+Developer;Data+Analysis+Enthusiast;Building+Real-World+Projects;Open+to+Work" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00C853&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub!;Software+Developer;Python+Developer;Data+Analysis+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aantoniovivin&style=for-the-badge&color=00C853" />
-  <img src="https://img.shields.io/github/followers/aantoniovivin?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/aantoniovivin?style=for-the-badge&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=aantoniovivin&label=Profile%20Views&color=00C853&style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 🎓 **B.E. Computer Science & Engineering Graduate (2026)**
 
-💻 Passionate about building software that solves real-world problems.
+💻 Passionate about developing software and solving real-world problems.
 
-🌱 **Currently Learning**
+🌱 Currently Learning
 
 - Python
 - SQL
-- React
+- React.js
 - Flask
-- Data Analytics
 - CCNA
+- Data Analytics
 
-🎯 **Looking for**
+🎯 Looking for
 
 - Software Developer
 - Python Developer
 - Backend Developer
 - Data Analyst
 
-📧 **Email:** `aantoniovivin2004@gmail.com`
+📫 **Email:** aantoniovivin2004@gmail.com
 
-🌐 **LinkedIn:**  
+🔗 **LinkedIn:**  
 https://www.linkedin.com/in/aantonio-vivin-a-bb9826421
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -69,36 +67,83 @@ https://www.linkedin.com/in/aantonio-vivin-a-bb9826421
 
 # 💻 Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,react,flask,firebase,mysql,git,github,vscode,html,css,javascript"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-</p>
+### Frontend
+
+React • HTML • CSS • Tailwind CSS
+
+### Backend
+
+Flask • Firebase
+
+### Database
+
+MySQL • Firestore
+
+### Tools
+
+Git • GitHub • VS Code • Postman • Excel
 
 ---
 
 # 🚀 Featured Projects
 
-| 🚀 Project | 💡 Description |
-|------------|----------------|
-| 🛍️ **Shine Boutique** | Women's fashion e-commerce website with authentication, cart, and admin features. |
-| 🤖 **SmartPick AI** | AI-powered shopping recommendation system using Python, Flask, and Gemini AI. |
-| 📚 **Library Management System** | CRUD-based web application with JWT authentication and MySQL. |
-| 🎧 **Spotify Music Data Analysis** | SQL, Python, Excel, and Pandas-based analytics dashboard. |
+### 🛍️ Shine Boutique
+Women's Fashion E-Commerce Website
+
+- React
+- Firebase
+- Shopping Cart
+- Admin Panel
+
+---
+
+### 🤖 SmartPick AI
+AI-powered Shopping Recommendation Platform
+
+- React
+- Flask
+- Gemini AI
+- Python
+
+---
+
+### 📚 Library Management System
+
+- React
+- Flask
+- MySQL
+- JWT Authentication
+
+---
+
+### 🎧 Spotify Music Data Analysis
+
+- Python
+- SQL
+- Pandas
+- Excel Dashboard
+- Matplotlib
 
 ---
 
 # 📜 Certifications
 
-🏆 Google Cloud Digital Leader
+🏅 Google Cloud Digital Leader
 
-🏆 Cisco CCNA
+🏅 Cisco CCNA
 
-🏆 HackerRank SQL
+🏅 HackerRank SQL
 
-🏆 NPTEL – Human Computer Interaction
+🏅 NPTEL Human Computer Interaction
 
-🏆 HP LIFE – AI for Beginners
+🏅 HP LIFE AI for Beginners
 
 ---
 
@@ -106,9 +151,9 @@ https://www.linkedin.com/in/aantonio-vivin-a-bb9826421
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aantoniovivin&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aantoniovivin&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aantoniovivin&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aantoniovivin&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -118,7 +163,7 @@ https://www.linkedin.com/in/aantonio-vivin-a-bb9826421
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=aantoniovivin&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=aantoniovivin&theme=tokyonight"/>
 
 </p>
 
@@ -128,7 +173,7 @@ https://www.linkedin.com/in/aantonio-vivin-a-bb9826421
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aantoniovivin&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aantoniovivin&theme=tokyo-night"/>
 
 </p>
 
@@ -138,7 +183,7 @@ https://www.linkedin.com/in/aantonio-vivin-a-bb9826421
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aantoniovivin&theme=tokyonight&row=1&column=6&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aantoniovivin&theme=tokyonight&row=1&column=6"/>
 
 </p>
 
@@ -148,7 +193,7 @@ https://www.linkedin.com/in/aantonio-vivin-a-bb9826421
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/aantoniovivin/aantoniovivin/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/aantoniovivin/aantoniovivin/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -156,7 +201,7 @@ https://www.linkedin.com/in/aantonio-vivin-a-bb9826421
 
 <h3 align="center">
 
-💡 *"Code • Learn • Build • Improve • Repeat."*
+💡 "Code. Learn. Build. Repeat."
 
 </h3>
 
