@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aantonio Vivin A</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I'm Aantonio Vivin A</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -76,6 +76,22 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aantoniovivin&show_icons=true&locale=en&theme=default" alt="aantoniovivin" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aantoniovivin&theme=default&hide_border=true&background=FFFFFF&ring=1DB954&fire=1DB954&currStreakLabel=1DB954" alt="aantoniovivin streak stats" />
+</p>
+
+---
+
+### 📈 Contribution Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aantoniovivin&theme=minimal&hide_border=true&color=1DB954&line=1DB954&point=000000" alt="aantoniovivin activity graph" />
 </p>
 
 ---
